@@ -1,0 +1,15 @@
+{
+    "name": "moso/wp_crud",
+    "autoload": {
+        "psr-4": {
+            "Moso\\WpCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mostafa Alaeddin",
+            "email": "80463244+mostafa-ald@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

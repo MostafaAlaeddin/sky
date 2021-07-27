@@ -1,0 +1,22 @@
+/*imports*/
+@import "../../node_modules/bootstrap/dist/css/bootstrap.rtl.min.css";
+@import "../../node_modules/uikit/dist/css/uikit-rtl.min.css";
+/*Font*/
+@font-face {
+    font-family: 'MyFont';
+    src:
+            url("../Fonts/BKoodakBold.eot"),
+            url("../Fonts/BKoodakBold.ttf"),
+            url("../Fonts/BKoodakBold.woff");
+}
+/*Root*/
+*,body{
+    font-family: 'MyFont','Comic Sans MS',serif !important;
+}
+a:hover{
+    text-decoration: none;
+}
+/*navigation*/
+#navigation{
+    background: ghostwhite;
+}
