@@ -25,11 +25,37 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">درباره ما</a>
                 </li>
+                <li class="nav-item">
+
+                </li>
             </ul>
             <div class="d-flex me-4">
                 <a href="/wp_crud/views/auth/login/login.php" class="btn btn-md btn-outline-primary me-1">ورود</a>
                 <a href="/wp_crud/views/auth/register/register.php" class="btn btn-md btn-outline-success me-1">ثبت نام</a>
+                <a class="nav-link " type="button" uk-toggle="target: #offcanvas-overlay">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-info-square" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="#009988" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                        <line x1="12" y1="8" x2="12.01" y2="8" />
+                        <rect x="4" y="4" width="16" height="16" rx="2" />
+                        <polyline points="11 12 12 12 12 16 13 16" />
+                    </svg>
+                </a>
             </div>
         </div>
     </div>
 </nav>
+
+
+<div id="offcanvas-overlay" uk-offcanvas="overlay: true" class="cover">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+
+        <h3>راهنمایی صفحه اصلی</h3>
+
+        <p>این یک متن آزمایشی برای این قسمت است .</p>
+
+        <a href=".#" class="uk-button uk-button-text">درباره ما</a>
+    </div>
+</div>

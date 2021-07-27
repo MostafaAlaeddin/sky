@@ -20,3 +20,27 @@ a:hover{
 #navigation{
     background: ghostwhite;
 }
+/*slider*/
+.uk-slider-container ul li img{
+    opacity: 0.4;
+    transition: all 1.5s ease-in-out;
+}
+.uk-slider-container:hover{
+    cursor: pointer;
+}
+.uk-slider-container ul li:hover img{
+    opacity: 1;
+    transition: all 500ms ease-in-out;
+    transform: rotateX(360deg);
+    border-radius: 0 20px 0 20px ;
+}
+/*cover conves navigationbar*/
+.cover{
+    opacity: 1;
+}
+/*scale for slider nav*/
+.scale:hover{
+    transition: all 1s ease-in-out;
+    color: red !important;
+    font-weight: bold;
+}
