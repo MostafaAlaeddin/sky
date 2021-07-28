@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddb33762-3d86-4bec-9239-cbff5a4c5c9f" name="Default Changelist" comment="step 1 successfully create login and register and index page">
+      <change afterPath="$PROJECT_DIR$/Interface/Images/border/background-images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Images/border/border.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Images/headers/header-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Images/requests/requests.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Interface/Css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/Css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Partials/footer/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Partials/footer/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Partials/navigation/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Partials/navigation/navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/auth/login/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/auth/login/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/auth/register/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/auth/register/register.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/requests/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/requests/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +30,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -27,6 +44,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -43,14 +68,22 @@
     <setting file="file://$PROJECT_DIR$/Partials/footer/footer.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Partials/header/header.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1vrXxIsNhlivrIqZJ7vl1wCGSVO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -59,7 +92,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Interface/Images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -93,7 +126,9 @@
       <updated>1627321426946</updated>
       <workItem from="1627321428268" duration="6744000" />
       <workItem from="1627373677425" duration="14474000" />
-      <workItem from="1627395124777" duration="12504000" />
+      <workItem from="1627395124777" duration="12895000" />
+      <workItem from="1627442693591" duration="91000" />
+      <workItem from="1627442790831" duration="16218000" />
     </task>
     <task id="LOCAL-00001" summary="step 1 successfully create login and register and index page">
       <created>1627406785135</created>
@@ -118,8 +153,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="step 1 successfully create login and register and index page" />
     <option name="LAST_COMMIT_MESSAGE" value="step 1 successfully create login and register and index page" />
   </component>
