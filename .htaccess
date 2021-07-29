@@ -13,7 +13,7 @@ Header set Cache-Control "public, proxy-revalidate, max-age=3600"
 </FilesMatch>
 
 #Block bad bots
-RewriteEngine On 
+RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Bot\ mailto:craftbot@yahoo.com [OR]
 RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]
@@ -103,30 +103,29 @@ deny from all
 
 #Prevent directory listings
 Options All -Indexes
- 
+
  #Rewrite to www
  Options +FollowSymLinks
  RewriteEngine on
  RewriteCond %{HTTP_HOST} ^beadbey.ir[nc]
  RewriteRule ^(.*)$ http:#www.beadbey.ir/$1 [r=301,nc]
- 
+
  #Caching schema
  <FilesMatch "\.(jpg|png|svg|)$">
  Header set Cache-Control "public, proxy-revalidate, max-age=3600"
  </FilesMatch>
- 
+
  #Custom 400 errors
  ErrorDocument 400 /wp_crud/errors/400.php
- 
+
  #Custom 401 errors
  ErrorDocument 401 /wp_crud/errors/401.php
- 
+
  #Custom 403 errors
  ErrorDocument 403 /wp_crud/errors/403.php
- 
+
  #Custom 404 errors
  ErrorDocument 404 /wp_crud/errors/404.php
- 
+
  #Custom 500 errors
- ErrorDocument 500 /wp_crud/errors/500php
-  
+ ErrorDocument 500 /wp_crud/errors/500.php

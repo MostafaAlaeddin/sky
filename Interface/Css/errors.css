@@ -1,0 +1,40 @@
+#Error400{
+    height: auto !important;
+    background-image: url("../Images/errors/400.png");
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: cover;
+    /*background: black !important;*/
+}
+#Error401{
+    height: auto !important;
+    background-image: url("../Images/errors/401.png");
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: cover;
+    /*background: black !important;*/
+}
+#Error403{
+    height: auto !important;
+    background-image: url("../Images/errors/403.png");
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: cover;
+    /*background: black !important;*/
+}
+#Error404{
+    height: auto !important;
+    background-image: url("../Images/errors/404.png");
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: cover;
+    /*background: black !important;*/
+}
+#Error500{
+    height: auto !important;
+    background-image: url("../Images/errors/500.png");
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: cover;
+    /*background: black !important;*/
+}

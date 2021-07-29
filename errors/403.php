@@ -5,17 +5,10 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>عدم دسترسی - 403</title>
-    <style>
-        body{
-            background-image: url("/wp_crud/Interface/Images/404.jpg");
-            background-repeat: repeat;
-            background-size: 100%;
-
-        }
-    </style>
+    <link rel="stylesheet" href="/wp_crud/Interface/Css/errors.css?v=1.0.0">
+    <title>خطایی-۴۰۳</title>
 </head>
-<body>
-<img src="" alt="" width="100%" >
+<body id="Error403">
+&nbsp;
 </body>
 </html>
