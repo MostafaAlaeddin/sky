@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddb33762-3d86-4bec-9239-cbff5a4c5c9f" name="Default Changelist" comment="step 1 successfully create login and register and index page">
-      <change afterPath="$PROJECT_DIR$/Interface/Images/border/background-images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/Images/border/border.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/Images/headers/header-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interface/Images/requests/requests.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Interface/Css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/Css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/Images/headers/header-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Interface/Images/headers/header-background.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Partials/footer/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Partials/footer/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Partials/navigation/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Partials/navigation/navigation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/requests/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/requests/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp_crud" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +113,8 @@
       <workItem from="1627373677425" duration="14474000" />
       <workItem from="1627395124777" duration="12895000" />
       <workItem from="1627442693591" duration="91000" />
-      <workItem from="1627442790831" duration="16218000" />
+      <workItem from="1627442790831" duration="17615000" />
+      <workItem from="1627496775682" duration="2056000" />
     </task>
     <task id="LOCAL-00001" summary="step 1 successfully create login and register and index page">
       <created>1627406785135</created>

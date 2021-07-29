@@ -1,19 +1,19 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col border border-primary mt-3 p-5">
+            <div class="col border border-light mt-3 p-5">
                 <form action="" method="post" role="form">
                     <div class="">
                         <input type="text" name="" id="name" class="form-control   col-12"
                                placeholder="نام و نام خانوادگی شما">
                         <input type="email" name="" id="email" class="form-control col-12 mt-1"
                                placeholder="email@example.com">
-                        <button class="btn btn-outline-primary mt-2 float-end">ثبت نام در خبرنامه</button>
+                        <button class="btn btn-outline-light mt-2 float-end">ثبت نام در خبرنامه</button>
                     </div>
                 </form>
             </div>
         </div>
-        <hr class="border-warning">
+        <hr class="border-light">
         <div class="container">
             <div class="mt-3">
                 <div class="col-12 col-sm-12">
@@ -74,7 +74,7 @@
                             <line x1="8" y1="9" x2="16" y2="9"/>
                             <line x1="8" y1="13" x2="14" y2="13"/>
                         </svg>
-                        <span class="text-success">پست الکترونیکی :</span>
+                        <span class="text-light">پست الکترونیکی :</span>
                         <span class="  float-end"><a href="mail:Email@Example.com" class="uk-button uk-button-text">email</a></span>
                     </p>
                 </div>

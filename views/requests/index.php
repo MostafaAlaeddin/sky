@@ -22,7 +22,7 @@
 </div>
 <hr class="border border-success w-50 m-auto mt-4 mb-4">
 <!--slider-->
-<div class="container-fluid mt-4 shadow pt-5" style="width: 95%;">
+<div class="container-fluid mt-4 shadow pt-5" style="width: 90%;">
     <div class="row">
         <!--slider-->
         <div uk-slider>
@@ -202,8 +202,8 @@
 <!--work with me-->
 <div class="container-fluid d-inline-flex justify-content-center border p-5 mt-5 mb-5">
     <div class="row">
-        <div class="col d-inline-block">
-            <img src="/wp_crud/Interface/Images/requests/requests.jpg" alt="" width="300px" height="300px">
+        <div class="col d-inline-block ">
+            <img src="/wp_crud/Interface/Images/requests/requests.jpg" alt="" width="300px" height="300px" class="rounded-pill">
                 <p>
                     عضویت در سایت علاءالدین ، ثبت کسب و کار خود و در نهایت رونق کار شما از طریق درخواست ها و ارائه تخفیف برای مشتریان
                     <br>
